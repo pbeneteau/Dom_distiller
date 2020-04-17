@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="dom_distiller:GWT">
+    <output-path>$PROJECT_DIR$/out/artifacts/dom_distiller_GWT</output-path>
+    <root id="root">
+      <element id="gwt-compiler-output" facet="dom_distiller/gwt/GWT" />
+    </root>
+  </artifact>
+</component>
